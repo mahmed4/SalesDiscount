@@ -1,0 +1,9 @@
+﻿h1 {
+    color: blue;
+}
+.form-group {
+    text-align: left;
+    font: 15px arial, sans-serif;
+    font-weight: bold;
+    font-family: verdana;
+}
